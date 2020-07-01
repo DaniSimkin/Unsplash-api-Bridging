@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kc.androidunsplash:androidunsplash:1.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/77d4a087786503aa2b669f7f9970d599/jetified-androidunsplash-1.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/77d4a087786503aa2b669f7f9970d599/jetified-androidunsplash-1.0.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kc.androidunsplash/androidunsplash/1.0.5/1d9d80ff72b111f231eb2582ee269c872b620811/androidunsplash-1.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kc.androidunsplash/androidunsplash/1.0.5/cb56f73411b867810839e2a503f4233f10552b5a/androidunsplash-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
